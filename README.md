@@ -9,7 +9,7 @@ I assumed you already have nvim installed on your machine! So just run:
 ```
 mv ~/.config/nvim{,.bak}
 
-git clone https://github.com/rezakhademix/nvim ~/.config/nvim
+git clone https://github.com/masoudfesahat/nvim ~/.config/nvim
 ```
 
 ## Supported Languages (LSP & DAP & Linter & Formatter)
